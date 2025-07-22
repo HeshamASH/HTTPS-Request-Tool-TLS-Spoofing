@@ -1,0 +1,10 @@
+{
+  "urls": [
+    "https://viagogo.co.uk/Concert-Tickets/Coldplay-Tickets/E-155391504"
+  ],
+  "proxy_file": "proxies.txt",
+  "tls_mode": "random",
+  "delay_ms_range": [1000, 3000],
+  "request_count": 10,
+  "rotate_on_block": true
+}
